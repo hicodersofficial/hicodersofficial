@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on <b>something cool</b> <br/>
  🌱 I’m currently learning <b>Everything</b><br/>
  💬 Ask me about <b>Full Stack</b><br/>
- 📫 Reach me on insta: <a href="https://www.instagram.com/hi.coders">@hi.coders</a><br/>
+ 📫 Reach me at on insta: <a href="https://www.instagram.com/hi.coders">@hi.coders</a><br/>
  </p>
 <p align="center">
 
