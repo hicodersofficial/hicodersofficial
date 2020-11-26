@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  </p>
 <p align="center">
 
-<a href="https://www.codepen.io/hi.coders"> 
+<a href="https://codepen.io/hicoders"> 
     <img src="https://raw.githubusercontent.com/priyanshuraj24/images/7f532054ceac46ca913bcb79966f9b11aa7c4212/Icon%20awesome-codepen.svg" width="30" />
 </a>
 <a href="https://www.instagram.com/hi.coders"> 
