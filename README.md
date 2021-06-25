@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"> Hi 👋, I am HiCoder</h2>
+<h2 align="center"> Hi 👋, I am Coder</h2>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
 
