@@ -18,20 +18,21 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<div style="display: flex; align-items: center;">
-<img src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif"  height="150"/>
+## Fun Fact 🎈: <a href="https://github.com/sponsors/M0nica"><img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">
 
-<div style="margin-left: 1rem;"> 
-🔭 I’m currently working on <b>something cool</b> <br/>
- 🌱 I’m currently learning <b>Everything</b><br/>
- 💬 Ask me about <b>Full Stack</b><br/>
- 📫 Reach me at on insta: <a href="https://www.instagram.com/hi.coders">@hi.coders</a><br/>
-</div>
+</a>
+ • 🔭 I’m currently working on <b>something cool</b> <br/>
+ • 🌱 I’m currently learning <b>Everything</b><br/>
+ • 👯 I’m looking to collaborate on anything with cool idea<br/>
+ • 💬 Ask me about <b>Full Stack</b><br/>
+ • 📫 Reach me at on instagram: <a href="https://www.instagram.com/hi.coders">@hi.coders</a><br/>
+</span>
 
-</div>
+<br />
+<br />
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h2>Connect with me:</h2>
+<p>
 
 <a href="https://codepen.io/hicoders"> 
     <img src="https://raw.githubusercontent.com/priyanshuraj24/images/7f532054ceac46ca913bcb79966f9b11aa7c4212/Icon%20awesome-codepen.svg" width="30" />
@@ -51,6 +52,9 @@ Here are some ideas to get you started:
 </a>
     <img src="https://raw.githubusercontent.com/priyanshuraj24/images/7f532054ceac46ca913bcb79966f9b11aa7c4212/Icon%20awesome-github.svg"  width="30"/>
 </a>
+
+<br />
+<br />
 
 ### Languages and Tools:
 
