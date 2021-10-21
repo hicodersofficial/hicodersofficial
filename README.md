@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/hicodersofficial/images/main/intro.png" />
+<img src="https://github.com/hicodersofficial/images/blob/878e5f49d54c93be7b2144f183d54e71d2ad8a22/intro.png?raw=true" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  • 🌱 I’m currently learning <b>Everything</b><br/>
  • 👯 I’m looking to collaborate on anything with cool idea<br/>
  • 💬 Ask me about <b>Full Stack</b><br/>
- • 📫 Reach me at on instagram: <a href="https://www.instagram.com/hi.coders">@hi.coders</a><br/>
+ • 📫 Reach me at on instagram: <a href="https://www.instagram.com/hi.coders"><b>@hi.coders</b></a><br/>
 </span>
 
 <br />
