@@ -1,4 +1,4 @@
-<img src="https://github.com/hicodersofficial/images/blob/878e5f49d54c93be7b2144f183d54e71d2ad8a22/intro.png?raw=true" />
+<img src="./assets/profile-banner.gif" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
 
@@ -19,11 +19,23 @@
 
 ## **CONNECT WITH ME:**
 
+<a href="https://www.instagram.com/hi.coders"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
+</a>
+<a href="https://discord.gg/TTsSYUJzDa"> 
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
+</a>
+<a href="https://www.youtube.com/channel/UC1hooNUnK4Ivk5KBaT5PKIg"> 
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
+</a>
+<a href="mailto:hicodersofficial@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+</a>
 <a href="https://www.github.com/hicodersofficial"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
-<a href="https://www.instagram.com/hi.coders"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
+<a href="https://twitter.com/coders_hi"> 
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
 <a href="https://www.facebook.com/hicoders"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
@@ -31,20 +43,8 @@
 <a  href="https://www.linkedin.com/company/hi-coders/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
-<a href="https://discord.gg/TTsSYUJzDa"> 
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
-</a>
 <a href="https://codepen.io/hicoders"> 
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
-</a>
-<a href="mailto:hicodersofficial@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
-</a>
-<a href="https://twitter.com/coders_hi"> 
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
-</a>
-<a href="https://www.youtube.com/channel/UC1hooNUnK4Ivk5KBaT5PKIg"> 
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
 <br />
 
