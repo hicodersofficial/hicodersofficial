@@ -1,16 +1,3 @@
-<!--
-**hicodersofficial/hicodersofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img src="https://github.com/hicodersofficial/images/blob/878e5f49d54c93be7b2144f183d54e71d2ad8a22/intro.png?raw=true" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
@@ -34,124 +21,177 @@ Here are some ideas to get you started:
 
 <p>
 <a href="https://www.github.com/hicodersofficial"> 
-    <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"  width="47"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
 <a href="https://www.instagram.com/hi.coders"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
 <a href="https://www.facebook.com/hicoders"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png" width="30"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a>
 <a  href="https://www.linkedin.com/company/hi-coders/">
-    <img  alt="LinkedIn" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 <a href="https://discord.gg/TTsSYUJzDa"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png"  width="35"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
 <a href="https://codepen.io/hicoders"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-256/social-243-96758.png" width="30" />
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a>
-
-<br />
-<br />
-
-## **Front-Ends:**
-
-[<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][repo]
-
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][repo]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][repo]
-
-[<img align="left" alt="Next.js" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />][repo]
-
-[<img align="left" alt="React & React Native" title="React & React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][repo]
-
-[<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][repo]
-
-[<img align="left" alt="sass" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />][repo]
-[<img align="left" alt="sass" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />][repo]
-[<img align="left" alt="sass" width="26px" src="https://seeklogo.com/images/M/material-design-logo-8BAFEFE50B-seeklogo.com.png" />][repo]
-
-[<img align="left" alt="electron" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" />][repo]
-
-[<img align="left" alt="sass" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" />][repo]
-<br />
+<a href="mailto:hicodersofficial@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+</a>
+<a href=""> 
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
+</a>
+<a href=""> 
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
+</a>
 <br />
 
-## **Back-Ends:**
+## **WEB DEV:**
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][repo]
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")][repo]
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")][repo]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")][repo]
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")][repo]
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")][repo]
+[![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white "Styled-Components")][repo]
+[![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white "React Router")][repo]
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")][repo]
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular")][repo]
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")][repo]
+[![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")][repo]
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind")][repo]
+[![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)][repo]
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")][repo]
+[![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white "JQuery")][repo]
+[![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")][repo]
+[![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black "Webpack")][repo]
+[![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white "Three.js")][repo]
+[![Socket.io-client](https://img.shields.io/badge/Socket.io--client-black?style=for-the-badge&logo=socket.io&badgeColor=010101 "Socket.io-client")][repo]
 
-[<img align="left" alt="deno" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" />][repo]
+## **MOBILE DEV**
 
-[<img align="left" alt="deno" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" />][repo]
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter")][repo]
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")][repo]
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")][repo]
+[![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)][repo]
 
-[<img align="left" alt="deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][repo]
-<br />
-<br />
+## **DESIGN TOOLS:**
 
-## **Databases:**
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")][repo]
+[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 "XD")][repo]
+[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)][repo]
 
-[<img align="left" alt="MongoDB" width="26px" src="https://www.mongodb.com/assets/images/global/favicon.ico" />][repo]
+## **BACKEND DEV:**
 
-[<img align="left" alt="Mysql" width="40px" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" />][repo]
+[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
+[![Express js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge "Express js")][repo]
+[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101 "Socket.io")][repo]
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")][repo]
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][repo]
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")][repo]
+[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)][repo]
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white "GO Lang")][repo]
 
-[<img align="left" alt="SQL-lite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" />][repo]
+## **DATABASES:**
 
-[<img align="left" alt="mysql" width="40px" src="https://avatars.githubusercontent.com/u/1529926?s=500&v=4" />][repo]
-<br />
-<br />
+[![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white "Redis")][repo]
+[![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")][repo]
+[![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white "Postgresql")][repo]
+[![SQLLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white "SQLLite")][repo]
 
-## **DevOps Tools:**
+## **PROGRAMMING LANGUAGES:**
 
-[<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][repo]
-[<img align="left" alt="git" width="60" src="https://git-scm.com/images/logo@2x.png" />][repo]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][repo]
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white "Dart")][repo]
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")][repo]
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")][repo]
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white "C#")][repo]
 
-[<img align="left" alt="GitHub" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />][repo]
-[<img align="left" alt="sass" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Apache_Feather_Logo.svg/1200px-Apache_Feather_Logo.svg.png" />][repo]
-[<img align="left" alt="sass" width="26px" src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png" />][repo]
-[<img align="left" alt="GitHub" width="26px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" />][repo]
-<br />
-<br />
+## **DEVOPS TOOLS:**
 
-## **Clouds:**
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")][repo]
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)][repo]
+[![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white "Apache")][repo]
+[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white "Nginx")][repo]
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white "Npm")][repo]
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][repo]
+[![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE "Insomnia")][repo]
+[![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white "Gradle")][repo]
+[![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)][repo]
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux")][repo]
 
-[<img align="left" alt="html5" width="26px" src="https://manzanit0.gallerycdn.vsassets.io/extensions/manzanit0/heroku-vscode/0.3.0/1590949018168/Microsoft.VisualStudio.Services.Icons.Default" />][repo]
+## **CLOUDS:**
 
-[<img align="left" alt="html5" width="26px" src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" />][repo]
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud")][repo]
+[![AWS](https://img.shields.io/badge/Amazon-_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white "AWS")][repo]
+[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white "Heroku")][repo]
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7 "Netlify")][repo]
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white "Vercel")][repo]
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")][repo]
+[][repo]
+[][repo]
 
-[<img align="left" alt="html5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" />][repo]
-[<img align="left" alt="html5" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-svg-vector.svg" />][repo]
+## **CODE EDITOR & IDES:**
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][repo]
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white "Visual Studio")][repo]
+[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")][repo]
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)][repo]
+[![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)][repo]
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)][repo]
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)][repo]
 
-<br />
-<br />
+## **BROWSERS**
 
-## **Code Editor & IDEs:**
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-317cee?style=for-the-badge&logo=GoogleChrome&logoColor=white)][repo]
+[![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white "Brave")][repo]
+![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />][repo]
+## **OPERATING SYSTEMS:**
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code512.png" />][repo]
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.sublimehq.com/images/sublime_text.png" />][repo]
+## **MY LEARNING RESOURCES**
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://developer.android.com/studio/images/studio-icon.svg" />][repo]
-<br />
-<br />
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)][sof]
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
+[![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)][mdn]
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![DigitalOcean](https://img.shields.io/badge/DO_Community-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)][doc]
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)][fcc]
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)][gog]
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)][udemy]
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)][quora]
+[![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
 
-## **Design Tools:**
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" />][repo]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_xd_macos_bigsur_icon_190424.png" />][repo]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" />][repo]
-<br />
-
+[medium]: https://medium.com/
+[github]: https://github.com/
+[google]: https://www.google.com
+[mdn]: https://developer.mozilla.org/en-US/
+[wiki]: https://en.wikipedia.org/wiki/Main_Page
+[quora]: https://www.quora.com/
+[doc]: https://www.digitalocean.com/community
+[youtube]: https://www.instagram.com/p/Cbe0bkdLhNr/
+[udemy]: https://www.udemy.com/
+[gog]: https://www.geeksforgeeks.org/
+[fcc]: https://www.freecodecamp.org/
+[sof]: https://stackoverflow.com/
 [repo]: https://github.com/hicodersofficial?tab=repositories
 
 </p>
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodersofficial)
-<img src="https://komarev.com/ghpvc/?username=hicodersofficial" alt="hicodersofficial" /> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodersofficial) -->
