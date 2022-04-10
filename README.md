@@ -1,4 +1,4 @@
-<img src="./assets/profile-banner.gif" />
+<img src="./assets/profile-banner.gif" width="3000" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
 
