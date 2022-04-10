@@ -1,4 +1,4 @@
-<img src="./assets/profile-banner.gif" width="3000" />
+<img src="./assets/profile-banner-new.gif" width="3000" />
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
 
@@ -16,7 +16,7 @@
 
 ## 🏆 **GITHUB TROPHY**
 
-![](https://github-profile-trophy.vercel.app/?username=hicodersofficial&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
+![](https://github-profile-trophy.vercel.app/?username=hicodersofficial&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
 <br />
 
@@ -193,5 +193,13 @@
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
 [repo]: https://github.com/hicodersofficial?tab=repositories
+
+<hr />
+
+### **Thank for checking out my GitHub Profile!** 🙏
+
+<br />
+
+![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodersofficial) -->
