@@ -19,7 +19,6 @@
 
 ## **CONNECT WITH ME:**
 
-<p>
 <a href="https://www.github.com/hicodersofficial"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
@@ -191,7 +190,5 @@
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
 [repo]: https://github.com/hicodersofficial?tab=repositories
-
-</p>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodersofficial) -->
