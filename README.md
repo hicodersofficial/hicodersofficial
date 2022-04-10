@@ -17,7 +17,7 @@
 <br />
 <br />
 
-## **Connect with me:**
+## **CONNECT WITH ME:**
 
 <p>
 <a href="https://www.github.com/hicodersofficial"> 
@@ -41,10 +41,10 @@
 <a href="mailto:hicodersofficial@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a>
-<a href=""> 
+<a href="https://twitter.com/coders_hi"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a>
-<a href=""> 
+<a href="https://www.youtube.com/channel/UC1hooNUnK4Ivk5KBaT5PKIg"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
 <br />
