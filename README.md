@@ -11,9 +11,9 @@
 ## Fun Fact 🎈: <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
-• 👯 I’m looking to collaborate cool projects.<br/>
+• 👯 I’m looking to collaborate on cool project.<br/>
 • 💬 Ask me about <b>Full Stack</b>.<br/>
-• 📫 Reach me at on instagram: <a href="https://www.instagram.com/hi.coders"><b>@hi.coders</b></a><br/>
+• 📫 Reach me out <a href="https://www.instagram.com/hi.coders"><b>@hi.coders</b></a><br/>
 </span>
 
 <br />
