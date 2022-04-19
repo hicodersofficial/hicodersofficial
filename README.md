@@ -22,6 +22,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=hicodersofficial&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
+<a href="http://www.github.com/hicodersofficial"><img src="https://activity-graph.herokuapp.com/graph?username=hicodersofficial&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <br />
 
 ## 🌏 **CONNECT WITH ME**
@@ -205,5 +207,6 @@
 <br />
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
+![](https://img.shields.io/github/followers/hicodersofficial?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodersofficial&theme=onedark) -->
