@@ -1,4 +1,4 @@
-<img src="./assets/profile-banner-new.gif" width="3000" />
+<img src="./assets/profile-banner-new.png" width="3000" />
 
 <br />
 
@@ -8,7 +8,9 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
 <br />
 
-## Fun Fact 🎈: <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">
+## Fun Fact 🎈:
+
+<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
