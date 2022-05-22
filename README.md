@@ -2,8 +2,9 @@
 
 <br />
 
-**I am Full-stack web/mobile developer from India.**<br />I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love logic and structure of coding and alway strive to white elegant and efficient code, weather it be HTML, CSS, or JavaScript.
-<br />**I have 5+ Years of experience in full-stack web-dev**.
+**I am a self-taught Full-stack web/mobile developer from India.**
+<br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
+<br />**I have 5+ Years of experience in full-stack web-dev.**
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
 <br />
