@@ -12,6 +12,7 @@
 ## Fun Fact 🎈:
 
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179272031-9b0a78bd-5264-493e-afb9-de28ce6d8e58.png" alt="octocat" style="margin-right: 2rem;" />
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
