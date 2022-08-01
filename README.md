@@ -1,4 +1,4 @@
-<img src="./assets/profile-banner-new.png" width="3000" />
+<img src="https://raw.githubusercontent.com/hicodersofficial/hicodersofficial/main/assets/profile-banner-new.png" width="3000" />
 
 <br />
 
