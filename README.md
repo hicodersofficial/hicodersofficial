@@ -25,7 +25,7 @@
 
 ## 🏆 **GITHUB TROPHY**
 
-![](https://github-profile-trophy.vercel.app/?username=hicodersofficial&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
+![](https://github-profile-trophy.vercel.app/?username=hicodersofficial&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
 
 <a href="http://www.github.com/hicodersofficial"><img src="https://activity-graph.herokuapp.com/graph?username=hicodersofficial&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
