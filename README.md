@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hicodersofficial/hicodersofficial/main/assets/profile-banner-new.png" width="3000" />
+<img src="https://raw.githubusercontent.com/hicodersofficial/hicodersofficial/main/assets/profile-banner-new.gif" width="3000" />
 
 <br />
 
@@ -10,6 +10,7 @@
 <br />
 
 ## Fun Fact 🎈:
+
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
@@ -18,7 +19,6 @@
 • 💬 Ask me about <b>Full Stack</b>.<br/>
 • 📫 Reach me out <a href="https://www.instagram.com/hi.coders"><b>@hi.coders</b></a><br/>
 </span>
-
 
 <br />
 <br />
